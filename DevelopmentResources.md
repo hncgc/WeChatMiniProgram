@@ -46,6 +46,12 @@ https://developers.weixin.qq.com/community/business/doc/00060ab1f5c388adb7ac7d0b
 https://developers.weixin.qq.com/community/business/doc/000e26815e8de0db1ecae5a035b00d
 
 
+### [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)  
+
+### [微信小程序 demo / 开发工具 / 文档资源](https://github.com/xwartz/wechat-app-demo)  
+
+
+
 
 
 
