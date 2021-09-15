@@ -48,16 +48,17 @@ https://developers.weixin.qq.com/community/business/doc/000e26815e8de0db1ecae5a0
 
 ### [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)  
 
-### [微信小程序 demo / 开发工具 / 文档资源](https://github.com/xwartz/wechat-app-demo)  
+[微信小程序 demo / 开发工具 / 文档资源](https://github.com/xwartz/wechat-app-demo)  
 
+[微信小程序开发教程--从零开始](https://www.jianshu.com/p/aaef5ceb3936)  
 
-### [微信小程序开发教程--从零开始](https://www.jianshu.com/p/aaef5ceb3936)  
+[小程序--data 数据各种形式和运算](https://www.cnblogs.com/bellagao/p/6296031.html)  
 
+[随笔分类 - 微信小程序](https://www.cnblogs.com/bellagao/category/939272.html)  
 
-### [小程序--data 数据各种形式和运算](https://www.cnblogs.com/bellagao/p/6296031.html)  
+[小程序中data数据的处理方法总结](https://www.cnblogs.com/chbyl/p/9808046.html)  
 
-### [随笔分类 - 微信小程序](https://www.cnblogs.com/bellagao/category/939272.html)  
-
+[微信小程序data的赋值与取值的几种方式](http://www.jisuapp.cn/news/5008.html)
 
 
 
