@@ -51,6 +51,13 @@ https://developers.weixin.qq.com/community/business/doc/000e26815e8de0db1ecae5a0
 ### [微信小程序 demo / 开发工具 / 文档资源](https://github.com/xwartz/wechat-app-demo)  
 
 
+### [微信小程序开发教程--从零开始](https://www.jianshu.com/p/aaef5ceb3936)  
+
+
+### [小程序--data 数据各种形式和运算](https://www.cnblogs.com/bellagao/p/6296031.html)  
+
+### [随笔分类 - 微信小程序](https://www.cnblogs.com/bellagao/category/939272.html)  
+
 
 
 
